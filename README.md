@@ -2,7 +2,7 @@
 cli for generating redux actions, reducers etc.
 
 # Roadmap
-- [ ] Initial setup
+- [x] Initial setup
 - [ ] Building setup
 - [ ] Config reading
 - [ ] Commands parsing
