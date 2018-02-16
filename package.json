@@ -8,7 +8,9 @@
     "rdx": "./bin/index.js"
   },
   "scripts": {
+    "preinstall": "npm build",
     "build": "tsc",
+    "dev-build": "tsc && yarn link",
     "watch": "tsc -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
