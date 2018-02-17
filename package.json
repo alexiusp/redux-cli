@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "cli for generating redux actions, reducers etc.",
   "main": "bin/index.js",
+  "preferGlobal": true,
   "bin": {
     "redux-cli": "./bin/index.js",
     "rdx": "./bin/index.js"

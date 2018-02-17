@@ -3,4 +3,4 @@
 
 process.title = 'redux-cli';
 
-require('../lib/index.js');
+require('../lib/rdx.js');
