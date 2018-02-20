@@ -1,1 +1,1 @@
-{"version":3,"file":"rdx-init.js","sourceRoot":"","sources":["../src/rdx-init.ts"],"names":[],"mappings":";;AAEA,gBAA+B,OAAgB;IAC3C,OAAO,CAAC,GAAG,CAAC,yBAAyB,EAAE,OAAO,CAAC,IAAI,EAAE,CAAC,CAAC;AAC3D,CAAC;AAFD,yBAEC"}
+{"version":3,"file":"rdx-init.js","sourceRoot":"","sources":["../src/rdx-init.ts"],"names":[],"mappings":";;AAEA,4CAAqC;AAErC,gBAA+B,OAAgB;IAC7C,OAAO,CAAC,GAAG,CAAC,yBAAyB,EAAE,OAAO,CAAC,IAAI,EAAE,CAAC,CAAC;IACvD,MAAM,aAAa,GAAG,IAAI,gBAAM,EAAE,CAAC;IACnC,OAAO,CAAC,GAAG,CAAC,iBAAiB,EAAE,IAAI,CAAC,SAAS,CAAC,aAAa,CAAC,CAAC,CAAC;AAChE,CAAC;AAJD,yBAIC"}

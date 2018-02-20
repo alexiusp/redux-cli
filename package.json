@@ -9,9 +9,10 @@
     "rdx": "./bin/index.js"
   },
   "scripts": {
-    "preinstall": "npm build",
+    "preinstall": "npm run build",
     "build": "tsc",
-    "dev-build": "tsc && yarn link",
+    "dev": "yarn link && tsc -w",
+    "lint": "tslint -p . src/*",
     "watch": "tsc -w",
     "test": "echo \"Error: no test specified\" && exit 1"
   },

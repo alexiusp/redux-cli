@@ -20,4 +20,6 @@ cli.command('init')
 
 cli.parse(process.argv);
 
-if (cli.args.length === 0) cli.help();
+if (cli.args.length === 0) {
+  cli.help();
+}
